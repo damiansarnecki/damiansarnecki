@@ -25,13 +25,13 @@ Im 20 years old programmer. I currently work as Blockchain Developer at HashUp. 
 
 ### Stats
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/damiansarnecki/github-readme-stats">
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=damiansarnecki&count_private=true&layout=compact&theme=omni&hide=stars" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat" >
-  <img align="center" height="148px"   src="https://s9.gifyu.com/images/output-onlinegiftools6c36b02e74d2e6d6.gif" />
-</a>
+ <img align="center" height="148px"   src="https://s9.gifyu.com/images/output-onlinegiftools6c36b02e74d2e6d6.gif" />
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+### Projects 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=damiansarnecki&repo=ethereum-ads&theme=omni)](https://github.com/anuraghazra/github-readme-stats?)
+
 
