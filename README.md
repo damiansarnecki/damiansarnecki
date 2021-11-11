@@ -1,5 +1,5 @@
-### Hi there 👋
-Im 20 years old programmer. I currently work as Blockchain Developer at HashUp. Currently learning React, Web3 and Solidity.
+### 👋 Hi there 
+Im 20 years old programmer. I currently work as Blockchain Developer at HashUp. Currently seeking knowledge in React, Web3 and Solidity. Love to learn new technologies and teach it to others 
 
 ### ⚡ Technologies
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
