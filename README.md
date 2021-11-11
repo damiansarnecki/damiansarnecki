@@ -32,6 +32,6 @@ Im 20 years old programmer. I currently work as Blockchain Developer at HashUp. 
 </div>
 
 ### Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=damiansarnecki&repo=ethereum-ads&theme=omni)](https://github.com/anuraghazra/github-readme-stats?)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=damiansarnecki&repo=ethereum-ads&theme=omni)](https://github.com/damiansarnecki/ethereum-ads?)
 
 
