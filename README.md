@@ -1,6 +1,9 @@
 ### Welcome
 Im 20 years old programmer. I currently work as Blockchain Developer at HashUp. Currently seeking knowledge in React, Web3 and Solidity. Love to learn new technologies and teach it to others 
 
+### Catch me there
+<a href="https://www.linkedin.com/in/damian-sarnecki/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&color=ff1493&logoColor=white"/> </a>
+
 ### Languages
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&color=ff1493&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&color=ff1493&logoColor=white)
