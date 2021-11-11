@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 ### ⚡ Technologies
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
