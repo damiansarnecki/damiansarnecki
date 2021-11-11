@@ -20,8 +20,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 
-![damiansarnecki github stats](https://github-readme-stats.vercel.app/api?username=damiansarnecki&count_private=true)
-
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=damiansarnecki&count_private=true&layout=compact&theme=dracula&hide=stars" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&" />
+</a>
+</div>
 <!--
 **damiansarnecki/damiansarnecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
